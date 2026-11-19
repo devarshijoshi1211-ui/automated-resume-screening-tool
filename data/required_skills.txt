@@ -1,0 +1,9 @@
+Python
+SQL
+Excel
+Power BI
+Pandas
+NumPy
+Data Visualization
+Statistics
+Machine Learning

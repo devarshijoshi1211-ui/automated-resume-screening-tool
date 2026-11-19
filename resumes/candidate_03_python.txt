@@ -1,0 +1,6 @@
+Rohan Mehta
+Junior Python Developer
+Skills: Python, SQL, Pandas, NumPy, Git, Flask, REST API.
+Projects: Created a Flask REST API, automated Excel reports with Pandas, and cleaned datasets using NumPy.
+Experience: 1.5 years.
+Education: B.Tech Information Technology.

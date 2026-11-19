@@ -1,0 +1,6 @@
+Aarav Shah
+Python Developer / Data Analyst
+Skills: Python, SQL, Pandas, NumPy, Scikit-learn, Git, Machine Learning, REST API.
+Projects: Built a sales analysis dashboard and a Python automation tool. Used Flask to expose a small REST API.
+Experience: 1 year of internship and project experience.
+Education: B.Tech Computer Engineering.

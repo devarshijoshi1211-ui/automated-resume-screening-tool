@@ -1,0 +1,6 @@
+Mira Patel
+Frontend Developer
+Skills: HTML, CSS, JavaScript, React, Git.
+Projects: Built responsive websites and UI components.
+Experience: 1 year.
+Education: BCA.

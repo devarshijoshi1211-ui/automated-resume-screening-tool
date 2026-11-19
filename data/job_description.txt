@@ -1,0 +1,21 @@
+
+Job Title: Data Analyst
+
+Required Skills:
+Python
+SQL
+Excel
+Power BI
+Pandas
+NumPy
+Data Visualization
+Statistics
+Machine Learning
+
+Responsibilities:
+Analyze business data.
+Create dashboards.
+Prepare reports.
+Clean and process datasets.
+Identify trends and patterns.
+Communicate analytical findings.

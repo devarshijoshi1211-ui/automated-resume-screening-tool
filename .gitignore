@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated outputs (keep sample reports only if intentionally committed)
+outputs/*.csv
+!outputs/.gitkeep
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+# Private data
+*.db
+*.sqlite
+*.sqlite3
+api/uploads/
+outputs/
+# Secrets
+.env.*
+!.env.example
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+# System files
+
+# Unverified sample resume image
+resumes/software_engineer.jpeg
